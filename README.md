@@ -129,7 +129,7 @@ Sinta-se à vontade para sugerir melhorias, abrir issues ou enviar pull requests
 Esse projeto foi criado para fins de aprendizado e demonstração de habilidades em dados.
 
 🧑‍💻 Autor
-Vinicius de Sousa Andrade
+Vinicius Andrade
 📧 bsbvinidesousa@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/vinícius-andrade-912295234)  
 🔗 [GitHub](https://github.com/vinis-san)
