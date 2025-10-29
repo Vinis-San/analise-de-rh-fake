@@ -102,6 +102,8 @@ SELECT
     (COUNT(DISTINCT d.id_funcionario) * 100.0 / COUNT(DISTINCT f.id_funcionario)) AS turnover_percentual
 FROM funcionarios f
 LEFT JOIN demissoes d ON f.id_funcionario = d.id_funcionario;
+
+```
 📊 Ideias de Dashboards no Power BI
 📈 Turnover mensal e por departamento
 
